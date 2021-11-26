@@ -19,6 +19,7 @@ A continuación se detalla la información del proyecto sobre el desarrollo del 
 |3     |Team          |Samuel Meza Perez              |
 |4     |Team          |Jefferson Aroni Garcés Torres  |
 |5     |Team          |Alvaro Hernan Escobar Beltran  |
+|6     |product owner |Miguel Angel Noriega Charris   |
 
 ### Objetivo
 Parking4 es una aplicación web que te permite visualizar las plazas disponibles en tu parqueadero y te ayuda a calcular el costo en tiempo real.
